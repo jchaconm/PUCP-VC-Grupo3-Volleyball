@@ -1,0 +1,9 @@
+Repositorio Implementación CenterNet , Mask R CNN , VIBE
+https://github.com/jchaconm/PUCP-VC-Grupo3-Volleyball
+
+
+Repositorio VideoPose 3D
+
+https://github.com/manuel-montoya-gamio/VideoPose3D
+
+En ambos repositorios los notebooks se encuentran en el directorio del mismo nombre
